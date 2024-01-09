@@ -25,3 +25,4 @@ myApp.controller("loginSignupCtrl", function ($scope, $window, $rootScope) {
     }
   };
 });
+
